@@ -1,0 +1,5 @@
+
+Running Spacebrew, start with argument '--help' to see available configuration arguments.
+More info at http://www.spacebrew.cc
+
+warn: [loadRoutes] live routes config file does not exist live_persist_config.json
